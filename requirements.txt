@@ -2,5 +2,5 @@ fastapi
 groq
 httpx
 pydantic
-uvicorn
+uvicorn>=0.22
 python-dotenv
